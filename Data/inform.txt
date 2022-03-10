@@ -1,0 +1,2 @@
+The remaining contents of this folder can be found in the corresponding folder in
+https://github.com/pjkiuru/macropore_networks/tree/main/Data (also found in https://doi.org/10.5281/zenodo.6327112)
