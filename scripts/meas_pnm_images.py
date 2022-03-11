@@ -49,10 +49,10 @@ rcParams['legend.handlelength'] = 1.0
 
 
     
-pnmdata = np.loadtxt('../Data_diffusion/D_PNM_comparison_3kPa.txt', skiprows=1, usecols= (0,1))
+pnmdata = np.loadtxt('../Data/D_PNM_comparison_3kPa.txt', skiprows=1, usecols= (0,1))
 #pnmdata = np.loadtxt('../Data/a_PNM_comparison_3kPa.txt', skiprows=1, usecols= (0,1))
 
-pndata = np.loadtxt('../Data_diffusion/a_PNM_comparison_3kPa.txt', skiprows=1, usecols= (0,1))
+pndata = np.loadtxt('../Data/a_PNM_comparison_3kPa.txt', skiprows=1, usecols= (0,1))
 
 Dc = pnmdata[:,0]
 Dpnm = pnmdata[:,1]
