@@ -39,7 +39,7 @@ rcParams['legend.handlelength'] = 1.0
 
 def load_diffusion_curves(filename):
     
-    topfolder = '../IO/results_diffusion/'
+    topfolder = '../IO/results/'
     suffix = '.npz'
     
     dummy = np.load(topfolder+filename+suffix) 
