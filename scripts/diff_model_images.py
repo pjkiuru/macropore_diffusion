@@ -64,10 +64,10 @@ boxpl = 0
 
 if dataread:
     
-    df = pd.read_excel('../Data_diffusion/Diffusion_data.xlsx', sheet_name='plotdata_final',
+    df = pd.read_excel('../Data/Diffusion_data.xlsx', sheet_name='plotdata_final',
                      header=0)
     
-    df_a = pd.read_excel('../data_diffusion/Diffusion_data.xlsx', sheet_name='plotdata_a_final',
+    df_a = pd.read_excel('../Data/Diffusion_data.xlsx', sheet_name='plotdata_a_final',
                      header=0)
 
     Dc_1_1 = df['Dc_1kPa'][0:7].dropna()
