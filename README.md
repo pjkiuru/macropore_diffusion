@@ -1,4 +1,4 @@
-# macropore_diffusion
+# Gas diffusion in peat – an experiment and pore network modeling
 
 These scripts and data are related to the manuscript with the preliminary title "Gas diffusion in peat – an experiment and
 pore network modeling" by Petri Kiuru, Marjo Palviainen, Arianna Marchionne, Tiia Grönholm, Maarit Raivonen, Lukas Kohl, and Annamari (Ari) Laurén.
