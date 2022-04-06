@@ -149,7 +149,7 @@ ylc = [-0.19, -0.19, -0.23,
         
 lw = 1.0 # line width
 msize = 2 # marker size
-linestyle = ['o-b', 'o--g']
+linestyle = ['o-c', 'o--g']
 
 fig = plt.figure(num=1)        
 fig.set_size_inches(6,4.98)
