@@ -291,14 +291,14 @@ ax9.set_position(bppos[8])
 
 
 ax1.xaxis.set_label_coords(0.5, -0.135)
-ax2.xaxis.set_label_coords(0.5, -0.15)
-ax3.xaxis.set_label_coords(0.5, -0.15)
+ax2.xaxis.set_label_coords(0.5, -0.125)
+ax3.xaxis.set_label_coords(0.5, -0.125)
 ax4.xaxis.set_label_coords(0.5, -0.135)
-ax5.xaxis.set_label_coords(0.5, -0.15)
-ax6.xaxis.set_label_coords(0.5, -0.15)
+ax5.xaxis.set_label_coords(0.5, -0.125)
+ax6.xaxis.set_label_coords(0.5, -0.125)
 ax7.xaxis.set_label_coords(0.5, -0.135)
-ax8.xaxis.set_label_coords(0.5, -0.15)
-ax9.xaxis.set_label_coords(0.5, -0.15)
+ax8.xaxis.set_label_coords(0.5, -0.125)
+ax9.xaxis.set_label_coords(0.5, -0.125)
 
 '''
 plt.figure(num=2)
